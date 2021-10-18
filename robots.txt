@@ -1,0 +1,4 @@
+Sitemap: https://theonlyanson.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: theonlyanson.github.io
